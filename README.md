@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Khan</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+<h3 align="center">A passionate Full stack developer expert in Web</h3>
 
 - 🔭 I’m currently working on [[Meetup , UberEatsClone]](https://github.com/m90khan/Uber-Eats-Clone-Nestjs)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://uxdkhan.cf/](https://uxdkhan.cf/)
 
-- 💬 Ask me about **react,redux framer-motion, mongoDB, graphQL, javaScript**
+- 💬 Ask me about **React, Redux, mongoDB, Rest/graphQL API, javaScript, Nodejs, UX/UI**
 
 - 📫 How to reach me **uxdkhan@gmail.com**
 
