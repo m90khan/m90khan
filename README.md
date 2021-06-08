@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://uxdkhan.cf/](https://uxdkhan.cf/)
 
-- 💬 Ask me about **React, Redux, mongoDB, Rest/graphQL API, javaScript, Nodejs, UX/UI**
+- 💬 Ask me about **React, React Native, Redux, mongoDB, Rest/graphQL API, javaScript, TypeScript, Nodejs, UX/UI**
 
 - 📫 How to reach me **uxdkhan@gmail.com**
 
