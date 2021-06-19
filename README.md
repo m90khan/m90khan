@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Khan</h1>
 <h3 align="center">A passionate Full stack developer expert in Web</h3>
 
-- 🔭 I’m currently working on [[Meetup , UberEatsClone]](https://github.com/m90khan/Uber-Eats-Clone-Nestjs)
+- 🔭 I’m currently working on [[LinkUP , UberEatsClone]](https://github.com/m90khan/Uber-Eats-Clone-Nestjs)
 
 - 🌱 I’m currently learning **Nextjs, AWS Serverless and full stack open**
 
