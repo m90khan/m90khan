@@ -9,8 +9,7 @@
 
 - 💬 Ask me about **React, React Native, Redux, mongoDB, Rest/graphQL API, javaScript, TypeScript, Nodejs, UX/UI**
 
-- 📫 How to reach me **uxdkhan@gmail.com**
-
+<!-- - 📫 How to reach me **uxdkhan@gmail.com** -->
 - ⚡ Fun fact **I like chess**
 
 <h3 align="left">Connect with me:</h3>
