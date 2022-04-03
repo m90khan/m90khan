@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I am Khan</h1>
 <h3 align="center">A passionate Full stack developer expert in Web</h3>
 
-- 🔭 I’m currently working on [[UberEatsClone]](https://github.com/m90khan/Uber-Eats-Clone-Nestjs)
+- 🔭 I’m currently working on [[Kommendor]](https://kommender.vercel.app/)
 
 - 🌱 I’m currently learning **Three.js, AWS Serverless and full stack open**
 
 - 👨‍💻 All of my projects are available at [https://uxdkhan.com/](https://uxdkhan.com/)
 
-- 💬 Ask me about **React, React Native, Redux, mongoDB, Rest/graphQL API, javaScript, TypeScript, Nodejs, UX/UI**
+- 💬 Ask me about **React, Next, React Native, Redux, mongoDB, Rest/graphQL API, javaScript, TypeScript, Nodejs, UX/UI**
 
 <!-- - 📫 How to reach me **uxdkhan@gmail.com** -->
 - ⚡ Fun fact **I like to play chess**
