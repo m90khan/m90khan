@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I am Khan</h1>
-<h3 align="center">A passionate Full stack developer expert in Web</h3>
+<h3 align="center">A passionate Full stack developer with a strong frontend focus</h3>
 
-- 🔭 I’m currently working on [[TikTok Clone With Firsebase]](https://uxdkhan.com/)
+- 🔭 I’m currently working on [[Food Delivery System]](https://uxdkhan.com/)
 
-- 🌱 I’m currently learning **Three.js, AWS Serverless and full stack open**
+- 🌱 I’m currently learning **Full stack open**
 
 - 👨‍💻 All of my projects are available at [https://uxdkhan.com/](https://uxdkhan.com/)
 
-- 💬 Ask me about **React, Next, React Native, Redux, mongoDB, Rest/graphQL API, javaScript, TypeScript, Nodejs, UX/UI**
+- 💬 Ask me about **React, Next, React Native, Redux, MongoDB, Rest/graphQL APIs, Headless CMS, JavaScript, TypeScript, Nodejs*
 
 <!-- - 📫 How to reach me **uxdkhan@gmail.com** -->
 - ⚡ Fun fact **I like to play chess**
