@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I am Khan</h1>
-<h3 align="center">A passionate Full stack developer with a strong frontend focus</h3>
+<h1 align="center">Hi 👋, I am Khan Mohsin</h1>
+<h3 align="center">A passionate developer with a strong frontend focus</h3>
 
-- 🔭 I’m currently working on [[Food Delivery System]](https://uxdkhan.com/)
+- 🔭 I’m currently working on [[Sensory Testing Platform]](https://uxdkhan.com/)
 
-- 🌱 I’m currently learning **Full stack open**
 
-- 👨‍💻 All of my projects are available at [https://uxdkhan.com/](https://uxdkhan.com/)
+- 👨‍💻 Some of my projects are available at [https://uxdkhan.com/](https://uxdkhan.com/)
 
-- 💬 Ask me about **React, Next, React Native, Redux, MongoDB, Rest/graphQL APIs, Headless CMS, JavaScript, TypeScript, Nodejs*
+- 💬 Ask me about **React, Next, React Native, Redux, MongoDB, Rest/graphQL APIs, Headless CMS's, JavaScript, TypeScript, Nodejs*
 
 <!-- - 📫 How to reach me **uxdkhan@gmail.com** -->
 - ⚡ Fun fact **I like to play chess**
