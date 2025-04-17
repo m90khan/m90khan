@@ -63,7 +63,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="42" alt="nextjs logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="41" alt="nextjs logo"  />
     <img width="12" />
 
   <!-- React Native -->
@@ -75,17 +75,17 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
   <img width="12" />
   <!-- Shadcn/ui -->
-<img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=radixui&logoColor=white" height="40" alt="shadcn ui" />
+<img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=radixui&logoColor=white" height="41" alt="shadcn ui" />
   <img width="12" />
 
 <!-- Chakra UI -->
 <img src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" height="40" alt="chakra ui" />
   <img width="12" />
 
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="40" alt="threejs logo"  />
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="41" alt="threejs logo"  />
   <img width="12" />
   <!-- React Three Fiber -->
-<img src="https://img.shields.io/badge/React Three Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white" height="40" alt="react three fiber" />
+<img src="https://img.shields.io/badge/React Three Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white" height="41" alt="react three fiber" />
   <img width="12" />
 <!-- Framer Motion -->
 <img src="https://img.shields.io/badge/Framer Motion-EF0091?style=for-the-badge&logo=framer&logoColor=white" height="40" alt="framer motion" />
@@ -140,8 +140,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?logo=apollographql&logoColor=white&style=for-the-badge" height="40" alt="apollographql logo"  />
-  <img width="12" />
+ 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
@@ -154,13 +153,12 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge" height="40" alt="sentry logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="41" alt="vercel logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge" height="40" alt="digitalocean logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="40" alt="blender logo"  />
- <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" height="40" alt="chakra ui logo" />
-
+ 
 </div>
 
 ###
