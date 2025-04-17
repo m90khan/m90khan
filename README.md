@@ -45,8 +45,8 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on [[Sensory Testing Platform]]([[https://uxdkhan.com/](https://flavora.kr8v.com/)](https://flavora.kr8v.com/))</h4>
-<h4 align="left">- 👨‍💻 Some of my projects are available at [[[https://uxdkhan.com/](https://khan-portfolio-next.vercel.app/?key=khanmohsin20231d9e59b903a3ab66f3991d948a2655)](https://khan-portfolio-next.vercel.app/?key=khanmohsin20231d9e59b903a3ab66f3991d948a2655)] 
+<h4 align="left">🔭 I’m currently working on [[Sensory Testing Platform]](https://uxdkhan.com/](https://flavora.kr8v.com/)</h4>
+<h4 align="left">- 👨‍💻 Some of my projects are available at [[my website]](https://khan-portfolio-next.vercel.app/?key=khanmohsin20231d9e59b903a3ab66f3991d948a2655)
 </h4>
 
 ##
