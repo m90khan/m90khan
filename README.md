@@ -104,6 +104,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="40" alt="blender logo"  />
 <img src="https://img.shields.io/badge/Chakra%20UI-%23319795?style=for-the-badge" height="40" alt="chakra ui badge" />
+<img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" height="40" alt="chakra ui logo" />
 
 </div>
 
