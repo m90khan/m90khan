@@ -58,7 +58,7 @@
 ###
 <div align="left">
 
-<img src="https://img.shields.io/badge/Frontend%20and%20Backend-%23319795?style=for-the-badge" height="40" alt="chakra ui badge" />
+<img src="https://img.shields.io/badge/Frontend%20and%20Backend-%00C896?style=for-the-badge" height="40" alt="chakra ui badge" />
 
 </div>
 <div align="left">
