@@ -49,14 +49,18 @@
 
 <h4 align="left">- 👨‍💻 Some of my projects are available at <a href="https://khan-portfolio-next.vercel.app/?key=khanmohsin20231d9e59b903a3ab66f3991d948a2655" target="_blank">my website</a></h4>
 
-<h4 align="left">- ⚡ In my free time I like to read and play chess</h4>
+<h4 align="left">- ⚡ In my free time, I like to read and play chess</h4>
 
 ##
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Skills</h3>
 
 ###
+<div align="left">
 
+<img src="https://img.shields.io/badge/Frontend%20and%20Backend-%23319795?style=for-the-badge" height="40" alt="chakra ui badge" />
+
+</div>
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
   <img width="12" />
