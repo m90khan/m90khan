@@ -121,6 +121,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
   <img width="12" />
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" height="40" alt="storybook" />
+  <img width="12" />
+<img src="https://img.shields.io/badge/Chromatic-FF61F6?style=for-the-badge&logo=chromatic&logoColor=white" height="40" alt="chromatic" />
+  <img width="12" />
+
   <h4 align="left">Real-time, AR & AI Technologies: </h4>
 
 ###
@@ -190,8 +195,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge" height="40" alt="digitalocean logo"  />
   <img width="12" />
+<img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" height="40" alt="Microsoft Teams" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="40" alt="blender logo"  />
  
+
 </div>
 
 ###
@@ -220,6 +228,8 @@
 <img src="https://img.shields.io/badge/🇩🇪%20German-101010?style=for-the-badge&logoColor=white&backgroundColor=101010" height="40" />
   <img width="12" />
 <img src="https://img.shields.io/badge/🇨🇳%20Mandarin-101010?style=for-the-badge&logoColor=white&backgroundColor=101010" height="40" />
+  <img width="12" />
+
 
 </div>
 
