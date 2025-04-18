@@ -1,59 +1,42 @@
-<h1 align="center">Hi 👋, I am Khan Mohsin</h1>
-<h3 align="center">A passionate developer with a strong frontend focus</h3>
+  
+ 
 
-- 🔭 I’m currently working on [[Sensory Testing Platform]](https://uxdkhan.com/)
-
-
-- 👨‍💻 Some of my projects are available at [https://uxdkhan.com/](https://uxdkhan.com/)
-
-- 💬 Ask me about **React, Next, React Native, Redux, MongoDB, Rest/graphQL APIs, Headless CMS's, JavaScript, TypeScript, Nodejs*
-
-<!-- - 📫 How to reach me **uxdkhan@gmail.com** -->
-- ⚡ Fun fact **I like to play chess**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uxdkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uxdkhan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://chakraui.com" target="_blank"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" alt="chakraUI" width="120" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://jamstack.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jamstack/jamstack-original.svg" alt="Jamstack" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> </a> </p>
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="left">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVlbzJob3I4ZXZlbDR5eTBreHMxY2xxNTMwZWU4MHp1dm4xMmV1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<div align="left">
+<a href="https://www.linkedin.com/in/uxdkhan/" target="_blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
+   <a href="https://khan-portfolio-next.vercel.app/?key=khanmohsin20231d9e59b903a3ab66f3991d948a2655" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=internet-explorer&label=&color=29c48c&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="website logo" />
+  </a>
+ 
 </div>
+ 
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=m90khan.m90khan&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">Hi 👋, I am Khan Mohsin</h1>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+ 
 
 ###
 
-<h4 align="left">🔭 I’m currently working on <a href="https://flavora.kr8v.com/" target="_blank">Sensory Testing Platform</a></h4>
+<h4 align="left">- 🔭 I’m currently working on <a href="https://flavora.kr8v.com/" target="_blank">Sensory Testing Platform</a></h4>
 
 <h4 align="left">- 👨‍💻 Some of my projects are available at <a href="https://khan-portfolio-next.vercel.app/?key=khanmohsin20231d9e59b903a3ab66f3991d948a2655" target="_blank">my website</a></h4>
 
 <h4 align="left">- ⚡ In my free time, I like to read and play chess</h4>
-
+ 
 ##
 
  <img src="https://img.shields.io/badge/🧰%20Toolset-101010?style=for-the-badge" height="50" />
+ 
 
 ####
 <h4 align="left">Frontend and Backend</h4>
@@ -138,19 +121,69 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
   <img width="12" />
+  <h4 align="left">Real-time, AR & AI Technologies: </h4>
+
+###
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />
   <img width="12" />
- 
+ <!-- Agora -->
+<img src="https://img.shields.io/badge/Agora-009EF7?style=for-the-badge&logo=agora&logoColor=white" height="40" alt="agora" />
+  <img width="12" />
+
+<!-- 8thWall -->
+<img src="https://img.shields.io/badge/8thWall-551A8B?style=for-the-badge&logo=8thwall&logoColor=white" height="40" alt="8thwall" />
+  <img width="12" />
+
+<!-- MindAR -->
+<img src="https://img.shields.io/badge/MindAR.js-161616?style=for-the-badge&logo=three.js&logoColor=white" height="40" alt="mindar" />
+  <img width="12" />
+
+<!-- Jeeliz -->
+<img src="https://img.shields.io/badge/Jeeliz-2F2F2F?style=for-the-badge&logo=face-recognition&logoColor=white" height="40" alt="jeeliz" />
+  <img width="12" />
+<!-- OpenAI -->
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="openai" />
+  <img width="12" />
+
+<!-- Langchain -->
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" height="40" alt="langchain" />
+  <img width="12" />
+
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo"  />
   <img width="12" />
+  <!-- n8n -->
+<img src="https://img.shields.io/badge/n8n-FB4A46?style=for-the-badge&logo=n8n&logoColor=white" height="40" alt="n8n" />
+  <img width="12" />
+  <h4 align="left">Tools & Platforms </h4>
+
+###
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="40" alt="jira logo"  />
   <img width="12" />
+
+  <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white" height="40" alt="Asana" />
+  <img width="12" />
+
+<img src="https://img.shields.io/badge/Usersnap-3C91E6?style=for-the-badge&logo=usersnap&logoColor=white" height="40" alt="Usersnap" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
   <img width="12" />
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" height="40" alt="Miro" />
+  <img width="12" />
+
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="40" alt="Cypress" />
+  <img width="12" />
+
+<img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" height="40" alt="BrowserStack" />
+  <img width="12" />
+
+<img src="https://img.shields.io/badge/Responsively-101010?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" alt="Responsively" />
+  <img width="12" />
+
+
   <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge" height="40" alt="sentry logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="41" alt="vercel logo"  />
@@ -163,15 +196,31 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+ 
+ <img src="https://img.shields.io/badge/📊%20Stats-101010?style=for-the-badge" height="50" />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=m90khan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
+<img src="https://img.shields.io/badge/🌐%20Languages-101010?style=for-the-badge" height="50" />
+
+###
+<div align="left">
+
+<img src="https://img.shields.io/badge/🇵🇰%20Urdu-101010?style=for-the-badge&logoColor=white&backgroundColor=101010" height="40" />
+  <img width="12" />
+
+<img src="https://img.shields.io/badge/🇬🇧%20English-101010?style=for-the-badge&logoColor=white&backgroundColor=101010" height="40" />
+  <img width="12" />
+<img src="https://img.shields.io/badge/🇩🇪%20German-101010?style=for-the-badge&logoColor=white&backgroundColor=101010" height="40" />
+  <img width="12" />
+<img src="https://img.shields.io/badge/🇨🇳%20Mandarin-101010?style=for-the-badge&logoColor=white&backgroundColor=101010" height="40" />
+
+</div>
 
  
