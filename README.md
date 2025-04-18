@@ -223,4 +223,30 @@
 
 </div>
 
- 
+ <h3 align="left">🚀 Projects</h3>
+
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://res.cloudinary.com/m90khan/image/upload/v1680466106/KhanPortfolio/EON/Dev-Cover-1_fhzaww.png" width="200" style="border-radius: 5px;" /><br/>
+      <strong>Project One</strong><br/>
+      <a href="https://example.com" target="_blank">🔗 View</a>
+    </td>
+    <td align="left">
+      <img src="https://res.cloudinary.com/m90khan/image/upload/v1680439531/KhanPortfolio/ESWB/Dev-Cover-1_hqds9s.png" width="200" style="border-radius: 5px;" /><br/>
+      <strong>Project Two</strong><br/>
+      <a href="https://example.com" target="_blank">🔗 View</a>
+    </td>
+    <td align="left">
+      <img src="https://flavora.kr8v.com/images/landing/hero-image-light.png" width="200" style="border-radius: 5px;" /><br/>
+      <strong>Project Three</strong><br/>
+      <a href="https://example.com" target="_blank">🔗 View</a>
+    </td>
+    <td align="left">
+      <img src="https://kr8v.vercel.app/images/projects/palwani/cover.png" width="200" style="border-radius: 5px;" /><br/>
+      <strong>Project Four</strong><br/>
+      <a href="https://example.com" target="_blank">🔗 View</a>
+    </td>
+  </tr>
+</table>
+
