@@ -27,11 +27,11 @@
 
 ###
 
-<h4 align="left">- 🔭 Currently building a <a href="https://flavora.kr8v.com/" target="_blank">sensory testing platform</a> for flavor and product development</h4>
+<h4 align="left">- 🔭 Currently building a <a href="https://flavora.kr8v.com/" target="_blank">sensory testing platform</a> for flavor and product development.</h4>
 
-<h4 align="left">- 👨‍💻 Explore some of my featured work on <a href="https://khan-portfolio-next.vercel.app/?key=khanmohsin20231d9e59b903a3ab66f3991d948a2655" target="_blank">my portfolio website</a></h4>
+<h4 align="left">- 👨‍💻 Explore some of my featured work on <a href="https://khan-portfolio-next.vercel.app/?key=khanmohsin20231d9e59b903a3ab66f3991d948a2655" target="_blank">my portfolio website.</a></h4>
 
-<h4 align="left">- ⚡ Outside of coding, I enjoy reading and chess</h4>
+<h4 align="left">- ⚡ Outside of coding, I enjoy reading and chess.</h4>
 
   <div height="5" />
 
