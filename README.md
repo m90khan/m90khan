@@ -265,7 +265,7 @@
 
 ###
 
- <h2 align="left" >📧  Contact</h2>
+ <h2 align="left" >📧  CONTACT</h2>
 
  <div align="left">
  
